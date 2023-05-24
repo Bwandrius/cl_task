@@ -1,0 +1,19 @@
+Užduotys praktikantams
+
+1. Parašykite algoritmą, kuris įvestą tekstinę reikšmę pateikia atbuline tvarką. Tarkim įvedame
+„Programuotojas“, rezultatą turi pateikti „sajotoumargorP“
+
+2. Parašykite algoritmą, kuris skaičių masyve surastų mažiausią ir didžiausią skaičių. Skaičių masyvą
+suformuoti galima naudojant “Random” funkciją, arba suformuoti pačiam. Masyvo ilgis 100.
+
+3. Parašykite algoritmą, kuris skaičių masyve surastų besidubliuojančius skaičius. Skaičių masyvą
+suformuoti galima naudojant “Random” funkciją, arba suformuoti pačiam. Masyvo ilgis 100.
+
+4. Parašykite algoritmą, kuris suskaičiuotu balsių ir priebalsių skaičių tekste “Programuotojo ar
+tiesiog bet kokio IT specialisto profesija taps vis labiau įprasta.“
+
+Pateikite savo sugalvotą problemos sprendimo realizavimą naudodami bazinius pasirinktos
+programavimo kalbos elementus. Sprendimui nenaudokite pasirinktos programavimo kalbos integruotų
+tikslinių funkcijų, pvz. min(), max() ir pan. Algoritmą pageidautina, kad pateiktumėte vieną iš paminėtų
+kalbų C#, Java, Javascript, Pascal. Jei pateiksite kita programavimo kalba, tokiu atveju reiktų mini
+veiksmų paaiškinimo.
